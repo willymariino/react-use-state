@@ -1,10 +1,10 @@
 function header() {
     return (
-        <header>
+        <section>
             <header>
                 <h1>Learn web development</h1>
             </header>
-        </header>
+        </section>
 
     )
 
